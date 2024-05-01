@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 # ![Profile views](https://gpvc.arturio.dev/neneplusdev)
 
@@ -16,31 +16,30 @@
 </ul>
 
 ## 🔧 Technologies & Tools I code with:
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+
+### Tools:
+![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=Terraform&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+
+### Code:
 ![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Magento-informational?style=flat&logo=magento&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Shopify-informational?style=flat&logo=Shopify&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
+
+### OS:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+
+### Editor:
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
 <br>
 
 ## &#x1f4c8; GitHub Stats:
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=neneplusdev&hide=issues,contribs&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagowingerter&hide=issues,contribs&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" /></a>
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneplusdev&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowingerter&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
 <br>
 
 ## &#x270d; Article & Survey Paper:
