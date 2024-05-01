@@ -1,18 +1,17 @@
- ### Hi there 👋
+# Hello there 👋
 
-# ![Profile views](https://gpvc.arturio.dev/neneplusdev)
+## Welcome to my page! 
 
-## Hey <img src="wave.gif" width="30px">, Nice to see you.
+ I'm Thiago, With almost 16 years of experience with Infrastructure now I have made a move to operate in cloud environments. 
+<br></br>
+ Looking for an opportunity to work as a Cloud Architect, Cloud Engineer, Cloud Analyst, Cloud Infrastructure.
 
-<p>Welcome to my page! </br> I'm Nayana, Full Stack developer and technical writer from <b>Gujarat, India</b>. Currently working remotely for full time. </p>
-
-## <img src="blob-sunglasses.gif" width="30px"> About Me:
+## About Me:
 <ul>
-    <li>Developed full-stack web applications that processed, analyzed and rendered data visually.</li>
-    <li>Liaised with back end developers, front end developers, server management.</li>
-    <li>Managed time-sensitive updates, including content changes and database upgrades.</li>
-    <li>Planned, wrote and debugged web applications and software with complete accuracy.</li>
-    <li>Developed app integration with REST / SOAP and other APIs, social media logins, payment processors and other services.</li>
+    <li>Worked for 4 years in Datacenter Infrastructure; experienced in critical environment; Server provisioning, maintenance and upgrade; ticket resolutions. </li>
+    <li>Participate in 2 major projects at this time: Build out of a fresh data center structure (Racks, Bundles, Power Strips, Servers, Switches) and the expansion of IBM MZR in Brazil.</li>
+    <li>Experience with world-wide team projects.</li>
+    <li>In my free time I love playing RPGs and video games. .</li>
 </ul>
 
 ## 🔧 Technologies & Tools I code with:
@@ -33,6 +32,11 @@
 
 ### Editor:
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+
+### Cloud Provider:
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=GCP&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-IBM-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
 
 <br>
 
