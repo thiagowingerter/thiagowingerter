@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/Cloud-IBM-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/thiagowingerter/github-readme-stats)
 
 ## 🌱 Currently Learning: 
 <ul>
