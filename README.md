@@ -38,10 +38,7 @@
 ![](https://img.shields.io/badge/Cloud-IBM-informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats:
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagowingerter&hide=issues,contribs&show_icons=true&count_private=true&theme=vue-dark&hide_border=true" /></a>
-
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowingerter&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Currently Learning: 
 <ul>
